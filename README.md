@@ -15,14 +15,7 @@ A modern React application to **search**, **favorite**, and **manage places** us
 ✅ Full Redux state management  
 ✅ Backend API Integration (Spring Boot)
 
----
 
-## 🖼️ UI Preview
-
-
-> Screenshot your app and add here later, or use a live demo link if hosted
-
----
 
 ## 🔧 Technologies Used
 
