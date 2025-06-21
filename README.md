@@ -19,6 +19,7 @@ A modern React application to **search**, **favorite**, and **manage places** us
 
 ## 🖼️ UI Preview
 
+
 > Screenshot your app and add here later, or use a live demo link if hosted
 
 ---
@@ -40,10 +41,15 @@ A modern React application to **search**, **favorite**, and **manage places** us
 
 ### 1. Clone the repository
 
-```bash
+git clone https://github.com/yekyawaungace/ReactJavaBackendAssessment
+for reactbackend service 
+
+
+
+
 git clone https://github.com/yekyawaungace/reactassessment.git
 cd reactassessment
 
-npm run build
+npm install
 
 npm start
